@@ -1,0 +1,8 @@
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Entity\obj\Debug\netcoreapp3.1\PayrollWebApp.Entity.csprojAssemblyReference.cache
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Entity\obj\Debug\netcoreapp3.1\PayrollWebApp.Entity.AssemblyInfoInputs.cache
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Entity\obj\Debug\netcoreapp3.1\PayrollWebApp.Entity.AssemblyInfo.cs
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Entity\bin\Debug\netcoreapp3.1\PayrollWebApp.Entity.deps.json
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Entity\bin\Debug\netcoreapp3.1\PayrollWebApp.Entity.dll
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Entity\bin\Debug\netcoreapp3.1\PayrollWebApp.Entity.pdb
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Entity\obj\Debug\netcoreapp3.1\PayrollWebApp.Entity.dll
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Entity\obj\Debug\netcoreapp3.1\PayrollWebApp.Entity.pdb

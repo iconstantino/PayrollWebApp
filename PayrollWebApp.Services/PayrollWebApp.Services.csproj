@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PayrollWebApp.Entity\PayrollWebApp.Entity.csproj" />
+    <ProjectReference Include="..\PayrollWebApp.Persistence\PayrollWebApp.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

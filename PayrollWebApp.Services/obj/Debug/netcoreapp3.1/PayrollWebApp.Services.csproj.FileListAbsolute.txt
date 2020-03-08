@@ -1,0 +1,13 @@
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\obj\Debug\netcoreapp3.1\PayrollWebApp.Services.csprojAssemblyReference.cache
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\obj\Debug\netcoreapp3.1\PayrollWebApp.Services.AssemblyInfoInputs.cache
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\obj\Debug\netcoreapp3.1\PayrollWebApp.Services.AssemblyInfo.cs
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\bin\Debug\netcoreapp3.1\PayrollWebApp.Services.deps.json
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\bin\Debug\netcoreapp3.1\PayrollWebApp.Services.dll
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\bin\Debug\netcoreapp3.1\PayrollWebApp.Services.pdb
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\bin\Debug\netcoreapp3.1\PayrollWebApp.Entity.dll
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\bin\Debug\netcoreapp3.1\PayrollWebApp.Persistence.dll
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\bin\Debug\netcoreapp3.1\PayrollWebApp.Entity.pdb
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\bin\Debug\netcoreapp3.1\PayrollWebApp.Persistence.pdb
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\obj\Debug\netcoreapp3.1\PayrollWebApp.Services.csproj.CopyComplete
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\obj\Debug\netcoreapp3.1\PayrollWebApp.Services.dll
+C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Services\obj\Debug\netcoreapp3.1\PayrollWebApp.Services.pdb
