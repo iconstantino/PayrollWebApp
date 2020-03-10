@@ -11,3 +11,16 @@ C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Persistence\bin\Debug\netc
 C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.csproj.CopyComplete
 C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.dll
 C:\Users\icaiv\OneDrive\Desktop\ASP.NET\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.pdb
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\bin\Debug\netcoreapp3.1\PayrollWebApp.Persistence.deps.json
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\bin\Debug\netcoreapp3.1\PayrollWebApp.Persistence.runtimeconfig.json
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\bin\Debug\netcoreapp3.1\PayrollWebApp.Persistence.runtimeconfig.dev.json
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\bin\Debug\netcoreapp3.1\PayrollWebApp.Persistence.dll
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\bin\Debug\netcoreapp3.1\PayrollWebApp.Persistence.pdb
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\bin\Debug\netcoreapp3.1\PayrollWebApp.Entity.dll
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\bin\Debug\netcoreapp3.1\PayrollWebApp.Entity.pdb
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.csprojAssemblyReference.cache
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.AssemblyInfo.cs
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.csproj.CopyComplete
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.dll
+C:\Users\icaiv\Documents\PayrollWebApp\PayrollWebApp.Persistence\obj\Debug\netcoreapp3.1\PayrollWebApp.Persistence.pdb
